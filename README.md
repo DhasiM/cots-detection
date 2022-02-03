@@ -14,16 +14,17 @@ This project utilises Feature Branch Workflow. Team members create seperate **br
 * [Setup](#setup)
 * .[Resources](#resources)
 
-##**Technologies**
+## Technologies
 
-##**Requirements**
+## Requirements
 
-##**Setup**
+
+## Setup
 ###To : `put-code-here`
 
-##**Resources/References/**:
+## Resources/References:
 ### Inspiration
-This model is inspired by the works of [www.kaggle.com/parapapapam](https://www.kaggle.com/parapapapam/yolox-inference-tracking-on-cots-lb-0-539), [https://www.kaggle.com/steamedsheep](https://www.kaggle.com/steamedsheep/yolov5-is-all-you-need)
+This model is inspired by the work of [www.kaggle.com/parapapapam](https://www.kaggle.com/parapapapam/yolox-inference-tracking-on-cots-lb-0-539), [https://www.kaggle.com/steamedsheep](https://www.kaggle.com/steamedsheep/yolov5-is-all-you-need)
 , and [https://www.kaggle.com/naturezhang](https://www.kaggle.com/naturezhang/yolov5-detections-tracking-on-cot)
 
 It also drew from the amazing work of the following pythonistas and gurus:
