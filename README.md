@@ -9,10 +9,13 @@ This project utilises Feature Branch Workflow. Team members create seperate **br
 
 ## Contents
 * [Overview](#Overview)
+* [Overview](#overview)
 * [Technologies](#technologies)
-* .[System Requirements](#system_requirements)
+* [System Requirements](#system_requirements)
 * [Setup](#setup)
-* .[Resources](#resources)
+* [Resources](#resources)
+
+## Overview
 
 ## Technologies
 
@@ -20,23 +23,23 @@ This project utilises Feature Branch Workflow. Team members create seperate **br
 
 
 ## Setup
-###To : `put-code-here`
+### To : `put-code-here`
 
 ## Resources/References:
 ### Inspiration
-This model is inspired by the work of [www.kaggle.com/parapapapam](https://www.kaggle.com/parapapapam/yolox-inference-tracking-on-cots-lb-0-539), [https://www.kaggle.com/steamedsheep](https://www.kaggle.com/steamedsheep/yolov5-is-all-you-need)
+This model is inspired by the work of [@parapapapam](https://www.kaggle.com/parapapapam/yolox-inference-tracking-on-cots-lb-0-539), [https://www.kaggle.com/steamedsheep](https://www.kaggle.com/steamedsheep/yolov5-is-all-you-need)
 , and [https://www.kaggle.com/naturezhang](https://www.kaggle.com/naturezhang/yolov5-detections-tracking-on-cot)
 
 It also drew from the amazing work of the following pythonistas and gurus:
-###Github:
+### Github:
 >branchflow control: https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
 >gitflow: https://jeffkreeftmeijer.com/git-flow/
-###Baseline YOLOx notebook:
-* Training: 
+### Baseline YOLOx notebook:
+* Training 
 * Inference
 * Tracking
-###Machine Learning
-###Object detection
-###YOLO
-###Nofair
-###Pytorch
+### Machine Learning
+### Object detection
+### YOLO
+### Nofair
+### Pytorch
