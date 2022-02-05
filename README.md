@@ -1,5 +1,5 @@
 # COTS Detection Model 
-**[Protect the Great Barrier Reef Kaggle Competition.](#https://www.kaggle.com/c/tensorflow-great-barrier-reef/overview)**
+[Protect the Great Barrier Reef Kaggle Competition.](#https://www.kaggle.com/c/tensorflow-great-barrier-reef/overview)
 
 This repo contains code, datasets, and other resources for a model that detects crown-of-thorns starfish in deep seas videos.
 It is the collective work of memebers of the [DSI-2022 Team 3](#Team)
@@ -38,8 +38,8 @@ This repo is DSI-2022 Team 3's attempt to create an object detection model for t
 
 ## Resources/References:
 ### Inspiration
-This model is inspired by the work of [@parapapapam](https://www.kaggle.com/parapapapam/yolox-inference-tracking-on-cots-lb-0-539), [https://www.kaggle.com/steamedsheep](https://www.kaggle.com/steamedsheep/yolov5-is-all-you-need)
-, and [https://www.kaggle.com/naturezhang](https://www.kaggle.com/naturezhang/yolov5-detections-tracking-on-cot)
+This model is inspired by the work of [Aleksandr Snorkin](https:/www.kaggle.com/parapapapam/yolox-inference-tracking-on-cots-lb-0-539), [sheep](https://www.kaggle.com/steamedsheep/yolov5-is-all-you-need)
+, and [NatureZhang](https://www.kaggle.com/naturezhang/yolov5-detections-tracking-on-cot)
 
 It also drew from the amazing work of the following pythonistas and gurus:
 ### Github:
