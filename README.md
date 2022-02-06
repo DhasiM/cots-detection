@@ -1,7 +1,9 @@
 # COTS Detection Model - [Help Protect the Great Barrier Reef Kaggle Competition.](https://www.kaggle.com/c/tensorflow-great-barrier-reef/overview)
-![Reef](https://unsplash.com/photos/6qKKco_UP-0)
+
 This repo contains code, datasets, and other resources for a model that detects crown-of-thorns starfish in deep seas videos.
 It is the collective work of members of the [DSI-2022 Team 3](#Team)
+
+![Reef](https://blogger.googleusercontent.com/img/a/AVvXsEj6-rQw5r22Bt47BUTtW5bn_dcWT7zMeADwtvsAHS3kBt6w8eWTmCM649ZcJcvosIMup6flKFIaI8p4M9ZzH1yXpEaMRjvwwfVZ_hMqgXCxtwNzEK25vTa-J2ly20by3M1zx7rTymo-tBI6Fq-mj1SJfCOXsOz0Ou1Esi4h2omvQSW98AjsONsVS-EA)
 
 ## About the project 
 
@@ -23,6 +25,9 @@ This repo is DSI-2022 Team 3's attempt to create an object detection model for t
 * [Team](#Team)
 
 ## Overview
+
+![Yolov5](https://cdn-images-1.medium.com/max/1024/0*XfVf5tdxHOnogHbU.png)
+
 
 ## Technologies
 * [Python >=3.7.0](https://www.python.org/)
@@ -63,6 +68,7 @@ This project was inspired by the work and tutorials of the following pythonistas
 ### YOLO
 * [YOLOv5](https://docs.ultralytics.com/quick-start/)
 * [AnalyticsVidhya](https://www.analyticsvidhya.com/blog/2018/12/practical-guide-object-detection-yolo-framewor-python)
+* [YOLOv5 Tips for Best Results](https://docs.ultralytics.com/tutorials/training-tips-best-results/)
 
 ## Team
 * [Sitwala](https://github.com/SitwalaM)
