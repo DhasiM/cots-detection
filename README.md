@@ -1,5 +1,5 @@
 # COTS Detection Model - [Help Protect the Great Barrier Reef Kaggle Competition.](https://www.kaggle.com/c/tensorflow-great-barrier-reef/overview)
-![Reef](https://unsplash.com/photos/NZTsrLSgNv0)
+![Reef](https://unsplash.com/photos/6qKKco_UP-0)
 This repo contains code, datasets, and other resources for a model that detects crown-of-thorns starfish in deep seas videos.
 It is the collective work of members of the [DSI-2022 Team 3](#Team)
 
