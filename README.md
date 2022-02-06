@@ -25,6 +25,7 @@ This repo is DSI-2022 Team 3's attempt to create an object detection model for t
 * [Team](#Team)
 
 ## Overview
+![img](https://us.lifelovingfoods.com/wp-content/uploads/2020/12/under-construction-gif-11.gif)
 
 ![Yolov5](https://cdn-images-1.medium.com/max/1024/0*XfVf5tdxHOnogHbU.png)
 
