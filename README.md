@@ -1,11 +1,12 @@
-# COTS Detection Model - [Help Protect the Great Barrier Reef Kaggle Competition.](https://www.kaggle.com/c/tensorflow-great-barrier-reef/overview)
+# [Help Protect the Great Barrier Reef Kaggle Competition.](https://www.kaggle.com/c/tensorflow-great-barrier-reef/overview)
+## COTS Detection Model 
 
 This repo contains code, datasets, and other resources for a model that detects crown-of-thorns starfish in deep seas videos.
-It is the collective work of members of the [DSI-2022 Team 3](#Team)
+It is the collective work of members of the [DSI-Marls Team](#Team). The team was formed for Module 1 of the [Africa Data Science Intensive Program, 2022](http://dsi-program.com/)
 
 ![Reef](https://blogger.googleusercontent.com/img/a/AVvXsEj6-rQw5r22Bt47BUTtW5bn_dcWT7zMeADwtvsAHS3kBt6w8eWTmCM649ZcJcvosIMup6flKFIaI8p4M9ZzH1yXpEaMRjvwwfVZ_hMqgXCxtwNzEK25vTa-J2ly20by3M1zx7rTymo-tBI6Fq-mj1SJfCOXsOz0Ou1Esi4h2omvQSW98AjsONsVS-EA)
 
-## About the project 
+### About the project 
 
 The goal of the competition was to accurately identify starfish in real-time by building an object detection model trained on underwater videos of coral reefs. 
 
@@ -15,7 +16,7 @@ The Great Barrier Reef Foundation established an innovation program to develop n
 
 This repo is DSI-2022 Team 3's attempt to create an object detection model for this purpose.
 
-## Contents
+### Contents
 * [Overview](#overview)
 * [Technologies](#technologies)
 * [Setup](#setup)
@@ -23,7 +24,7 @@ This repo is DSI-2022 Team 3's attempt to create an object detection model for t
 * [Resources](#resources)
 * [Team](#team)
 
-## Overview
+### Overview
 Why YOLO? 
 The project required a model that was; 
 * fast (<9hours to execute on the hidden test data), 
@@ -34,14 +35,14 @@ And the team, being new to object detection, needed a model that was precise as 
 We used a [YOLOv5s](https://github.com/ultralytics/yolov5/releases) pre-trained checkpoint and included object traking with NoFair. The purpose of the tracking was to avoid detecting the same starfish in multiple frames of the video. We attempted to train our own model from scratch, but due to computational limitations we settled on using a publicly available [YOLOv5s](https://github.com/ultralytics/yolov5) checkpoint trained on the [greatbarrierreef](https://www.kaggle.com/c/tensorflow-great-barrier-reef/overview) dataset by [Sheep](https://www.kaggle.com/steamedsheep). 
 
 
-## Technologies
+### Technologies
 * [Python >=3.8.0](https://www.python.org/)
 * [YOLOv5](https://github.com/ultralytics/yolov5)
 * [Pytorch >=1.7](https://pytorch.org/)
 * [NoFair](https://github.com/tryolabs/norfair)
 * 
 
-## Setup
+### Setup
 To begin working with YOLO in PyTorch is as easy as:
 * Install
 
@@ -54,31 +55,31 @@ To begin working with YOLO in PyTorch is as easy as:
 
 After which you can train the model on custom data or jump right into inference if using COCO type datasets.
 
-## Notebook
+### Notebook
 Our code and report for training and inference on the [greatbarrierreef](https://www.kaggle.com/c/tensorflow-great-barrier-reef/overview) dataset is in this [notebook](https://github.com/DhasiM/cots-detection/blob/main/notebooks/Colab_Train_YOLOX_on_a_Custom_Dataset.ipynb)
 
-## Resources
-We couldn't have done it by ourselves. 
+### Resources
+![noob](https://c.tenor.com/XH9VpXFGzYYAAAAS/noob-loser.gif) We couldn't have done it by ourselves. 
+
 This project was inspired by the work and tutorials of the following pythonistas, kaggle gurus and python resources:
 
-### Coding inspiration and datasets
+#### Coding inspiration and datasets
 * Training: [Awsaf](https://www.kaggle.com/awsaf49/great-barrier-reef-yolov5-train)
 * Inference: [Awsaf](https://www.kaggle.com/awsaf49/great-barrier-reef-yolov5-infer)
 * Tracking: [NatureZhang](https://www.kaggle.com/naturezhang/yolov5-detections-tracking-on-cot)
 * COTS Pre-trained YOLOv5 model and datasets: [Sheep](https://www.kaggle.com/steamedsheep)
 
-### Github:
-* [Branchflow control](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
-* [Gitflow](https://jeffkreeftmeijer.com/git-flow/)
+#### Github:
+* [Branchflow control](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)  
+* [Gitflow](https://jeffkreeftmeijer.com/git-flow/)      
+                                                                                      
 
-### Machine Learning 
+#### Machine Learning 
 * [Kaggle Intro To Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 * [Kaggle Intro To Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
-* []()
 
-### Computer Vision
+#### Computer Vision
 * [Kaggle Computer Vision ](https://www.kaggle.com/learn/computer-vision)
-* []()
 
 ### YOLO
 * [YOLOv5](https://docs.ultralytics.com/quick-start/)
@@ -90,6 +91,7 @@ This project was inspired by the work and tutorials of the following pythonistas
 * [LaliAli](https://github.com/laliali20)
 * [Antsa](https://github.com/AntsaHoneywinner)
 * [Rhodasi](https://github.com/DhasiM)
-* Tutor : [MartinPage](https://github.com/martinjpage)
+* Tutor : [Martin Page](https://github.com/martinjpage)
+
 
 ![img](https://us.lifelovingfoods.com/wp-content/uploads/2020/12/under-construction-gif-11.gif)
