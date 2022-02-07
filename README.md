@@ -25,14 +25,18 @@ This repo is DSI-2022 Team 3's attempt to create an object detection model for t
 * [Team](#team)
 
 ### Overview
-Why YOLO? 
+Why [YOLO](https://www.analyticsvidhya.com/blog/2018/12/practical-guide-object-detection-yolo-framewor-python)? 
+
 The project required a model that was; 
 * fast (<9hours to execute on the hidden test data), 
 * lightweight (able to run on Kaggle's public API with it's 1GPU limit) 
-* and can detect objects in real-time
+* and can detect objects in real-time.
+
 And the team, being new to object detection, needed a model that was precise as well as easy to train and deploy. [Ultralytics](https://ultralytics.com/yolov5) claims their [YOLOv5](https://github.com/ultralytics/yolov5) models are exactly that. 
 ![Yolov5](https://cdn-images-1.medium.com/max/1024/0*XfVf5tdxHOnogHbU.png)
-We used a [YOLOv5s](https://github.com/ultralytics/yolov5/releases) pre-trained checkpoint and included object traking with NoFair. The purpose of the tracking was to avoid detecting the same starfish in multiple frames of the video. We attempted to train our own model from scratch, but due to computational limitations we settled on using a publicly available [YOLOv5s](https://github.com/ultralytics/yolov5) checkpoint trained on the [greatbarrierreef](https://www.kaggle.com/c/tensorflow-great-barrier-reef/overview) dataset by [Sheep](https://www.kaggle.com/steamedsheep). 
+We used a [YOLOv5s](https://github.com/ultralytics/yolov5/releases) pre-trained checkpoint and included object traking with NoFair. The purpose of the tracking was to avoid detecting the same starfish in multiple frames of the video. 
+
+We attempted to train our own model from scratch, but due to computational limitations we settled on using a publicly available [YOLOv5s](https://github.com/ultralytics/yolov5) checkpoint trained on the [greatbarrierreef](https://www.kaggle.com/c/tensorflow-great-barrier-reef/overview) dataset by [Sheep](https://www.kaggle.com/steamedsheep). 
 
 
 ### Technologies
