@@ -44,7 +44,7 @@ We attempted to train our own model from scratch, but due to computational limit
 * [YOLOv5](https://github.com/ultralytics/yolov5)
 * [Pytorch >=1.7](https://pytorch.org/)
 * [NoFair](https://github.com/tryolabs/norfair)
-* 
+
 
 ### Setup
 To begin working with YOLO in PyTorch is as easy as:
