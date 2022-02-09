@@ -71,6 +71,9 @@ This project was inspired by the work and tutorials of the following pythonistas
 * Tracking: [NatureZhang](https://www.kaggle.com/naturezhang/yolov5-detections-tracking-on-cot)
 * COTS Pre-trained YOLOv5 model and datasets: [Sheep](https://www.kaggle.com/steamedsheep) and [Good Moon](https://www.kaggle.com/freshair1996)
 
+#### F2 Score of Pretrained Model Used
+![F2 Score of model used](https://github.com/DhasiM/cots-detection/blob/main/Report%20Images/F2_Score.PNG)
+
 #### Github:
 * [Branchflow control](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)  
 * [Gitflow](https://jeffkreeftmeijer.com/git-flow/)      
