@@ -73,6 +73,10 @@ This project was inspired by the work and tutorials of the following pythonistas
 
 #### F2 Score of Pretrained Model Used
 ![F2 Score of model used](https://github.com/DhasiM/cots-detection/blob/main/Report%20Images/F2_Score.PNG)
+![True Positves](https://github.com/DhasiM/cots-detection/blob/main/Report%20Images/tp.PNG)
+![False Positive distribution](https://github.com/DhasiM/cots-detection/blob/main/Report%20Images/Fp.PNG)
+
+
 
 #### Github:
 * [Branchflow control](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)  
