@@ -48,9 +48,7 @@ We attempted to train our own model from scratch, but due to computational limit
 
 ### Setup
 To begin working with YOLO in PyTorch is as easy as:
-* Install
-
-*Clone the repo and install the requirements
+* Clone the repo and install the requirements
   ```
   git clone https://github.com/ultralytics/yolov5  # clone
   cd yolov5
@@ -71,7 +69,7 @@ This project was inspired by the work and tutorials of the following pythonistas
 * Training: [Awsaf](https://www.kaggle.com/awsaf49/great-barrier-reef-yolov5-train)
 * Inference: [Awsaf](https://www.kaggle.com/awsaf49/great-barrier-reef-yolov5-infer)
 * Tracking: [NatureZhang](https://www.kaggle.com/naturezhang/yolov5-detections-tracking-on-cot)
-* COTS Pre-trained YOLOv5 model and datasets: [Sheep](https://www.kaggle.com/steamedsheep)
+* COTS Pre-trained YOLOv5 model and datasets: [Sheep](https://www.kaggle.com/steamedsheep) and [Good Moon](https://www.kaggle.com/freshair1996)
 
 #### Github:
 * [Branchflow control](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)  
@@ -90,6 +88,18 @@ This project was inspired by the work and tutorials of the following pythonistas
 * [AnalyticsVidhya](https://www.analyticsvidhya.com/blog/2018/12/practical-guide-object-detection-yolo-framewor-python)
 * [YOLOv5 Tips for Best Results](https://docs.ultralytics.com/tutorials/training-tips-best-results/)
 
+### EfficientDet0:
+[Inference with EfficientDet0](https://www.kaggle.com/khanhlvg/inference-using-efficientdet-d0-model-tensorflow)
+[Tensorflow API](https://neptune.ai/blog/how-to-train-your-own-object-detector-using-tensorflow-object-detection-api)
+
+### YoloX:
+[YOLOx training pipeline](https://www.kaggle.com/remekkinas/yolox-training-pipeline-cots-dataset-lb-0-507?scriptVersionId=81353936)
+
+### Model Selection and Validation:
+[Model Evaluation, Model Selection, and Algorithm
+Selection in Machine Learning](https://arxiv.org/pdf/1811.12808.pdf)
+
+
 ## Team
 * [Sitwala](https://github.com/SitwalaM)
 * [LaliAli](https://github.com/laliali20)
@@ -97,5 +107,4 @@ This project was inspired by the work and tutorials of the following pythonistas
 * [Rhodasi](https://github.com/DhasiM)
 * Tutor : [Martin Page](https://github.com/martinjpage)
 
-
-![img](https://us.lifelovingfoods.com/wp-content/uploads/2020/12/under-construction-gif-11.gif)
+![ML](https://miro.medium.com/max/2956/0*mF8oEQbABNtoZprD.gif)
