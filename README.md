@@ -58,7 +58,7 @@ To begin working with YOLO in PyTorch is as easy as:
 After which you can train the model on custom data or jump right into inference if using COCO type datasets.
 
 ### Notebook
-Our code and report for training and inference on the [greatbarrierreef](https://www.kaggle.com/c/tensorflow-great-barrier-reef/overview) dataset is in this [notebook](https://github.com/DhasiM/cots-detection/blob/main/notebooks/Colab_Train_YOLOX_on_a_Custom_Dataset.ipynb)
+Our code and report for training and inference on the [greatbarrierreef](https://www.kaggle.com/c/tensorflow-great-barrier-reef/overview) dataset is in this [notebook](https://github.com/DhasiM/cots-detection/blob/main/DSI_MasterNotebook.ipynb)
 
 ### Resources
 ![noob](https://c.tenor.com/XH9VpXFGzYYAAAAS/noob-loser.gif) We couldn't have done it by ourselves. 
