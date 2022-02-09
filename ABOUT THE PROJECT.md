@@ -88,14 +88,14 @@ This project was inspired by the work and tutorials of the following pythonistas
 * [AnalyticsVidhya](https://www.analyticsvidhya.com/blog/2018/12/practical-guide-object-detection-yolo-framewor-python)
 * [YOLOv5 Tips for Best Results](https://docs.ultralytics.com/tutorials/training-tips-best-results/)
 
-### EfficientDet0:
-[Inference with EfficientDet0](https://www.kaggle.com/khanhlvg/inference-using-efficientdet-d0-model-tensorflow)
-[Tensorflow API](https://neptune.ai/blog/how-to-train-your-own-object-detector-using-tensorflow-object-detection-api)
+### EfficientDet0
+* [Inference with EfficientDet0](https://www.kaggle.com/khanhlvg/inference-using-efficientdet-d0-model-tensorflow)
+* [Tensorflow API](https://neptune.ai/blog/how-to-train-your-own-object-detector-using-tensorflow-object-detection-api)
 
-### YoloX:
+### YoloX
 [YOLOx training pipeline](https://www.kaggle.com/remekkinas/yolox-training-pipeline-cots-dataset-lb-0-507?scriptVersionId=81353936)
 
-### Model Selection and Validation:
+### Model Selection and Validation
 [Model Evaluation, Model Selection, and Algorithm
 Selection in Machine Learning](https://arxiv.org/pdf/1811.12808.pdf)
 
