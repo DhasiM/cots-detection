@@ -62,6 +62,7 @@ Our code and report for training and inference on the [greatbarrierreef](https:/
 
 #### F2 Score of Pretrained Model Used
 The competition was evaluated on the F2 metric.
+
 ![F2 Score of model used](https://github.com/DhasiM/cots-detection/blob/main/Report%20Images/F2_Score.PNG)
 ![True Positves](https://github.com/DhasiM/cots-detection/blob/main/Report%20Images/tp.PNG)
 ![False Positive distribution](https://github.com/DhasiM/cots-detection/blob/main/Report%20Images/Fp.PNG)
