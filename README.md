@@ -60,6 +60,13 @@ After which you can train the model on custom data or jump right into inference 
 ### Notebook
 Our code and report for training and inference on the [greatbarrierreef](https://www.kaggle.com/c/tensorflow-great-barrier-reef/overview) dataset is in this [notebook](https://github.com/DhasiM/cots-detection/blob/main/DSI_MasterNotebook.ipynb)
 
+#### F2 Score of Pretrained Model Used
+The competition was evaluated on the F2 metric.
+![F2 Score of model used](https://github.com/DhasiM/cots-detection/blob/main/Report%20Images/F2_Score.PNG)
+![True Positves](https://github.com/DhasiM/cots-detection/blob/main/Report%20Images/tp.PNG)
+![False Positive distribution](https://github.com/DhasiM/cots-detection/blob/main/Report%20Images/Fp.PNG)
+
+
 ### Resources
 ![noob](https://c.tenor.com/XH9VpXFGzYYAAAAS/noob-loser.gif) We couldn't have done it by ourselves. 
 
@@ -70,13 +77,6 @@ This project was inspired by the work and tutorials of the following pythonistas
 * Inference: [Awsaf](https://www.kaggle.com/awsaf49/great-barrier-reef-yolov5-infer)
 * Tracking: [NatureZhang](https://www.kaggle.com/naturezhang/yolov5-detections-tracking-on-cot)
 * COTS Pre-trained YOLOv5 model and datasets: [Sheep](https://www.kaggle.com/steamedsheep) and [Good Moon](https://www.kaggle.com/freshair1996)
-
-#### F2 Score of Pretrained Model Used
-![F2 Score of model used](https://github.com/DhasiM/cots-detection/blob/main/Report%20Images/F2_Score.PNG)
-![True Positves](https://github.com/DhasiM/cots-detection/blob/main/Report%20Images/tp.PNG)
-![False Positive distribution](https://github.com/DhasiM/cots-detection/blob/main/Report%20Images/Fp.PNG)
-
-
 
 #### Github:
 * [Branchflow control](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)  
